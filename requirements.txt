@@ -1,0 +1,10 @@
+streamlit
+numpy
+matplotlib
+opencv-python
+seaborn
+scikit-learn
+tensorflow
+scipy
+torch
+streamlit-lottie
