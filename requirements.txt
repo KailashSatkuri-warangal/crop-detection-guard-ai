@@ -8,4 +8,4 @@ tensorflow
 scipy
 torch
 streamlit-lottie
-opencv
+opencv-python
