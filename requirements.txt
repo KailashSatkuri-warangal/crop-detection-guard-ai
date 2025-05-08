@@ -1,11 +1,10 @@
 streamlit
 numpy
 matplotlib
-opencv-python
+opencv-python-headless
 seaborn
 scikit-learn
 tensorflow
 scipy
 torch
 streamlit-lottie
-opencv-python
